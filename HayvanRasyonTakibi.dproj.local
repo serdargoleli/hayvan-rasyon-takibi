@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.932,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.214,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\HayvanRasyonTakibi.dproj=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\Unit1.dfm=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\Unit1.pas=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.209,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Hayvan Rasyon Takibi\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
